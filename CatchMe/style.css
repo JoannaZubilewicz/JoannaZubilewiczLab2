@@ -1,0 +1,19 @@
+#map {
+    height: 100%;
+    overflow: visible;
+}
+html, body {
+  
+    margin: 0;
+    padding: 0;
+  }
+.pojemnik{
+    margin: 100px auto 0;
+    
+    width:600px;height:600px;
+}
+  #tlo{
+      width: 600px;
+      height: 600px;
+    border: 5px rgb(25, 0, 255) dotted;
+  }
